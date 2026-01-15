@@ -314,16 +314,4 @@ Configuration is managed via environment variables (see `.env.example`):
 - **Current**: In-memory BM25 index
 - **Future**: Persistent BM25 index (Elasticsearch)
 
-## License
-
-[Specify your license]
-
-## Contributing
-
-[Contributing guidelines]
-
-## Contact
-
-[Contact information]
-
 **Built with**: FastAPI, Neo4j, Qdrant, sentence-transformers, spaCy
