@@ -1,0 +1,42 @@
+# Core API
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# Document Processing
+unstructured[pdf]
+pypdf
+python-docx
+
+# NLP & Entity Extraction
+spacy
+transformers
+sentence-transformers
+torch
+
+# Retrieval
+rank-bm25
+qdrant-client
+
+# Graph Database
+neo4j
+
+# LLM Integration
+openai
+ollama
+
+# Utilities
+python-dotenv
+numpy
+tiktoken
+langchain
+langchain-community
+langchain-openai
+
+# Observability
+prometheus-client
+
+# Testing
+pytest
+pytest-asyncio
