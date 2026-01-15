@@ -38,7 +38,7 @@ Results are fused using **Reciprocal Rank Fusion (RRF)** with configurable weigh
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Kompalk/KG-Augmented-RAG
    cd KG-Augmented-RAG
    ```
 
